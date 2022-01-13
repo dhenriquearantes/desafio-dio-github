@@ -203,7 +203,7 @@ Apesar de não ser obrigatoria, ela nos da o poder de descrição da imagem. Ass
 
 **Resultado**
 
-<img src="../img_1.jpg" alt="Avatar de perfil">
+<img src="./img/img_1.jpg" alt="Avatar de perfil">
 
 <br>
 

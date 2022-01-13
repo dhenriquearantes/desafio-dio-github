@@ -1,6 +1,6 @@
 # **Anotações CSS3**
 
-## **Como implementar no codigo**
+## **Como implementar no codigo HTML**
 
 Primeiramente e necessario incorporar no codigo html, utilizando a seção **HEAD**  o codigo:
 ~~~~
