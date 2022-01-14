@@ -1,0 +1,36 @@
+body {
+    background-color: aqua;
+  }
+section {
+    padding-top: 50px;
+    height: 100vh;
+}
+.navbar {
+    background-color: aquamarine;
+}
+
+.navbar-brand {
+    padding-left: 15px;
+}
+
+.list{
+    width: 120px;
+}
+.task-item {
+  margin-bottom: 10px;
+  
+}
+
+:checked + label {
+  text-decoration: line-through;
+  color: grey;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+.bg-footer {
+    background-color: cadetblue;
+    color: white;
+}

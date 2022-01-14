@@ -130,7 +130,7 @@ E tambem  na pasta do projeto o **adicionar o novo arquivo _style.css_**.
     <head>
         <meta charset="utf-8">
         <title></title> 
-        <link rel="stylesheet" href="style.css"/> 
+        <link rel="stylesheet" href="assests/css/style.css"/> 
         <script src="assets/js/scripts.js"></script>
     </head>
     <body>
